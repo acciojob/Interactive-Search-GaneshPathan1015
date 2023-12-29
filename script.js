@@ -6,6 +6,6 @@ const input = document.querySelector(".input")
 
 function change(){
     search.className="active";
-	input.foucs();
+	input.focus();
 	
 }
