@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+input:focus{
+	color:black;
+}
+.search:active{
+	background-color:red;
+}
