@@ -5,6 +5,6 @@ const input = document.querySelector(".input")
 
 
 function change(){
-   search.addClassList("active");
+   search.addClassList.add("active");
 	input.focus();
 }
